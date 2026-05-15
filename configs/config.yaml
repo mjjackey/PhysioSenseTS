@@ -1,0 +1,11 @@
+# configs/config.yml
+data: 
+path: data/processed/
+
+model: 
+type: 
+hiddren_size:
+
+training:
+epochs:
+lr:
