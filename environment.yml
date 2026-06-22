@@ -8,6 +8,7 @@ dependencies:
   - pandas
   - scipy=1.11.4
   - matplotlib
+  - seaborn
 
   - scikit-learn
   - xgboost
